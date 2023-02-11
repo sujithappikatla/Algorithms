@@ -1,3 +1,7 @@
+---
+render_with_liquid: false
+---
+
 # Single Source Shortest Path On DAG
 
 ## Description
