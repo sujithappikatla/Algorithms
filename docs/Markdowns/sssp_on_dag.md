@@ -1,6 +1,4 @@
----
-render_with_liquid: false
----
+{% raw %}
 
 # Single Source Shortest Path On DAG
 
@@ -116,3 +114,5 @@ int main()
     return 0;
 }
 ```
+
+{% endraw %}

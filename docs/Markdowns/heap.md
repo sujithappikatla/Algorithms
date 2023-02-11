@@ -1,6 +1,4 @@
----
-render_with_liquid: false
----
+{% raw %}
 
 # Heap
 
@@ -148,4 +146,4 @@ int main()
 
     return 0;
 }
-```
+{% endraw %}
