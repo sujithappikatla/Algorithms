@@ -95,4 +95,14 @@ int main()
 
     return 0;
 }
+
+
+
+```
+```
+Output:
+
+Topological sorting using TopSort
+
+5 4 2 3 1 0 
 ```
