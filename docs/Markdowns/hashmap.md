@@ -168,4 +168,17 @@ int main()
 }
 
 ```
+
+```
+Output
+
+Is one exists : 0
+Is two exists : 1
+Is wot exists : 0
+Is two exists after erase : 0
+five : 55
+eightyeight : 8888
+
+```
+
 {% endraw %}

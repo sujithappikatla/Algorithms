@@ -4,6 +4,7 @@
 
 - Arrays
   - [Hash Map](Markdowns/hashmap.md)
+  - [Disjoint Sets (Union-Find)](Markdowns/unionfind.md)
 - Trees
   - [Binary Heap using Array](Markdowns/heap.md)
 - Graphs
