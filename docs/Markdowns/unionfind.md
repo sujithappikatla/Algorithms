@@ -1,4 +1,4 @@
-
+{% raw %}
 # Disjoint Sets (Union-Find)
 
 ## Description
@@ -118,5 +118,4 @@ Are 4 and 5 Related? - 1
 Are 2 and 5 Related? - 0
 
 ```
-
-
+{% endraw %}
