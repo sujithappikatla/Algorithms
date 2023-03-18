@@ -1,7 +1,8 @@
 # Table Of Contents
 
 
-
+- Sorting
+  - [Quick Sort](Markdowns/quick_sort.md)
 - Arrays
   - [Hash Map](Markdowns/hashmap.md)
   - [Disjoint Sets (Union-Find)](Markdowns/unionfind.md)
